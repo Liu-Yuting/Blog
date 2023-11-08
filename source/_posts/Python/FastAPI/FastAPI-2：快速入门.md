@@ -1,6 +1,7 @@
 ---
 title: FastAPI-2：快速入门
 date: 2023-11-06 16:12:24
+author: 刘宇亭
 category:
     - Python
     - FasAPI
