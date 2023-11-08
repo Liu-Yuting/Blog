@@ -1,6 +1,12 @@
 ---
 title: FastAPI-3：uvicorn.run()
 date: 2023-11-07 18:53:27
+category:
+    - Python
+    - FasAPI
+tag:
+    - Python
+    - FastAPI
 ---
 # FastAPI-3：uvicorn.run()
 
