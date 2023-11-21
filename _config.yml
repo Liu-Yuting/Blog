@@ -85,7 +85,7 @@ updated_option: 'mtime'
 
 # Pagination
 ## 设置归档每页数量
-per_page: 5
+per_page: 6
 pagination_dir: page
 
 # Include / Exclude file(s)
