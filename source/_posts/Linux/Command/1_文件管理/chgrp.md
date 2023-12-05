@@ -2,6 +2,8 @@
 title: chgrp
 date: 2023-12-03 16:32:19
 author: 刘宇亭
+cover: true
+coverImg: /medias/images/03.jpg
 category:
     - Linux
     - Command
