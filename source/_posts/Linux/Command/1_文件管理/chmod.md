@@ -1,9 +1,9 @@
 ---
 title: chmod
 date: 2023-12-04 16:33:43
-author: 刘宇亭
 cover: true
-coverImg: /medias/images/02.jpg
+coverImg: /medias/images/03.jpg
+author: 刘宇亭
 category:
     - Linux
     - Command

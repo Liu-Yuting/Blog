@@ -1,9 +1,9 @@
 ---
 title: chown
 date: 2023-12-05 15:28:32
-author: 刘宇亭
 cover: true
-coverImg: /medias/images/01.jpg
+coverImg: /medias/images/02.jpg
+author: 刘宇亭
 category:
     - Linux
     - Command
