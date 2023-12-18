@@ -1,8 +1,6 @@
 ---
 title: cp
 date: 2023-12-08 15:06:07
-cover: true
-coverImg: /medias/images/01.jpg
 author: 刘宇亭
 category:
     - Linux

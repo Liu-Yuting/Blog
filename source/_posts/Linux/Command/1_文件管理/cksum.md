@@ -1,8 +1,6 @@
 ---
 title: cksum
 date: 2023-12-06 16:22:49
-cover: true
-coverImg: /medias/images/03.jpg
 author: 刘宇亭
 category:
     - Linux

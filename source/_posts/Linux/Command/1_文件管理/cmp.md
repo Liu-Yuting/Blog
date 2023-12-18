@@ -1,8 +1,6 @@
 ---
 title: cmp
 date: 2023-12-07 16:30:57
-cover: true
-coverImg: /medias/images/02.jpg
 author: 刘宇亭
 category:
     - Linux
