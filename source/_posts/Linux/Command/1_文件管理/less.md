@@ -1,8 +1,6 @@
 ---
 title: less
 date: 2023-12-17 16:16:06
-cover: true
-coverImg: /medias/images/02.jpg
 author: 刘宇亭
 category:
     - Linux

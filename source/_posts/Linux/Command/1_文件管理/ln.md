@@ -1,8 +1,6 @@
 ---
 title: ln
 date: 2023-12-18 16:17:16
-cover: true
-coverImg: /medias/images/01.jpg
 author: 刘宇亭
 category:
     - Linux

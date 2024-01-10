@@ -1,8 +1,6 @@
 ---
 title: indent
 date: 2023-12-16 16:14:51
-cover: true
-coverImg: /medias/images/03.jpg
 author: 刘宇亭
 category:
     - Linux
