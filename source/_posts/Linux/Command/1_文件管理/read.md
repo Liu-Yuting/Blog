@@ -1,8 +1,6 @@
 ---
 title: read
 date: 2024-01-08 17:52:40
-cover: true
-coverImg: /medias/images/03.jpg
 author: 刘宇亭
 category:
     - Linux

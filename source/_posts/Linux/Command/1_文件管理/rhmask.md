@@ -1,8 +1,6 @@
 ---
 title: rhmask
 date: 2024-01-09 17:53:06
-cover: true
-coverImg: /medias/images/02.jpg
 author: 刘宇亭
 category:
     - Linux

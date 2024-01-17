@@ -1,8 +1,6 @@
 ---
 title: rm
 date: 2024-01-10 17:54:30
-cover: true
-coverImg: /medias/images/01.jpg
 author: 刘宇亭
 category:
     - Linux
