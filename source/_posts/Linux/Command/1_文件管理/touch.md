@@ -1,8 +1,6 @@
 ---
 title: touch
 date: 2024-01-16 14:37:43
-cover: true
-coverImg: /medias/images/02.jpg
 author: 刘宇亭
 category:
     - Linux

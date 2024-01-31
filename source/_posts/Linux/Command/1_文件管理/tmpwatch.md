@@ -1,8 +1,6 @@
 ---
 title: tmpwatch
 date: 2024-01-15 14:37:31
-cover: true
-coverImg: /medias/images/03.jpg
 author: 刘宇亭
 category:
     - Linux

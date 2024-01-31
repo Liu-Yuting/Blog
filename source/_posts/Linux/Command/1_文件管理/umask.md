@@ -1,8 +1,6 @@
 ---
 title: umask
 date: 2024-01-17 14:37:57
-cover: true
-coverImg: /medias/images/01.jpg
 author: 刘宇亭
 category:
     - Linux
